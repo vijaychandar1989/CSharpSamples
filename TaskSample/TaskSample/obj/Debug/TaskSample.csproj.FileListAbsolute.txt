@@ -1,0 +1,6 @@
+C:\Working Folder\TaskSample\TaskSample\bin\Debug\TaskSample.exe.config
+C:\Working Folder\TaskSample\TaskSample\bin\Debug\TaskSample.exe
+C:\Working Folder\TaskSample\TaskSample\bin\Debug\TaskSample.pdb
+C:\Working Folder\TaskSample\TaskSample\obj\Debug\TaskSample.csprojResolveAssemblyReference.cache
+C:\Working Folder\TaskSample\TaskSample\obj\Debug\TaskSample.exe
+C:\Working Folder\TaskSample\TaskSample\obj\Debug\TaskSample.pdb
