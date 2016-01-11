@@ -4,3 +4,6 @@ C:\Working Folder\TaskSample\TaskSample\bin\Debug\TaskSample.pdb
 C:\Working Folder\TaskSample\TaskSample\obj\Debug\TaskSample.csprojResolveAssemblyReference.cache
 C:\Working Folder\TaskSample\TaskSample\obj\Debug\TaskSample.exe
 C:\Working Folder\TaskSample\TaskSample\obj\Debug\TaskSample.pdb
+C:\GitHub\CSharpSamples\TaskSample\TaskSample\bin\Debug\TaskSample.exe.config
+C:\GitHub\CSharpSamples\TaskSample\TaskSample\obj\Debug\TaskSample.exe
+C:\GitHub\CSharpSamples\TaskSample\TaskSample\obj\Debug\TaskSample.pdb
